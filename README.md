@@ -1,4 +1,4 @@
-# Logistic regression model on lead-scoring data for a educational website
+# Logistic regression on lead-scoring data for an educational website company
 
 #### Problem Statement
 
